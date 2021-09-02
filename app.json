@@ -29,7 +29,7 @@
         "HANDLERS": {
             "description": "Symbol used infront of a command ( Prefix ). NOTE : ONLY SYMBOL CAN BE USED, DON'T ENTER ANY OTHER LATIN WORDS / ALPHABETS, IF IT HAPPENS BOT WILL NOT WORK.",
             "required": true,
-            "value": "^[#]"
+            "value": "^[#!.]"
         },
         "OWNER_NAME": {
             "description": "Enter the owner name, You must enter your name ( This name will be shown on some commands )",
