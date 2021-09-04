@@ -17,13 +17,13 @@
   <h1>WhatsAlexa</h1>
 </div>
 <p align="center">
-    WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
+    WhatsAlexa is a Helper WhatsApp Bot Written By @Kaweesha Chamor with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
-     <img src="https://img.shields.io/github/repo-size/TOXIC-DEVIL/WhatsAlexa?color=green&label=Repo%20total%20size&style=plastic">
+     <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/Stefanie?color=green&label=Repo%20total%20size&style=plastic">
 
 <p align="center">
-<a href="https://github.com/TOXIC-DEVIL/WhatsAlexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TOXIC-DEVIL/WhatsAlexa?color=blue&style=flat-square"></a>
-<a href="https://github.com/TOXIC-DEVIL/WhatsAlexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TOXIC-DEVIL/WhatsAlexa?color=pink&style=flat-square"></a>
+<a href="https://github.com/Kaweeshachamodk/Stefanie-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kaweeshachamodk/Stefanie-?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kaweeshachamodk/Stefanie-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TOXIC-DEVIL/WhatsAlexa?color=pink&style=flat-square"></a>
 
 
 ## ⚙️ Setup ⚙️
