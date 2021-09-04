@@ -14,10 +14,10 @@
 
 <div align="center">
   <img src="https://telegra.ph/file/2935d519d950f22aca296.jpg" width="200" height="200">
-  <h1>WhatsAlexa</h1>
+  <h1>Stefanie</h1>
 </div>
 <p align="center">
-    WhatsAlexa is a Helper WhatsApp Bot Written By @Kaweesha Chamor with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
+    Stefanie is a Helper WhatsApp Bot Written By @Kaweesha Chamor with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
      <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/Stefanie?color=green&label=Repo%20total%20size&style=plastic">
 
@@ -78,7 +78,7 @@ There are **3 Languages** in this Bot - **English ( US ), Malayalam ( India ), I
 
 ### ❗ Does our number will banned from WhatsApp by Using This Bot?
 
-If you are concerned about that, Then you can just use bot on a [Fake Number](https://youtu.be/v8lGcQp0RjQ). **[Also Read This](https://github.com/TOXIC-DEVIL/WhatsAlexa#-warnings--disclaimers-)**
+If you are concerned about that, Then you can just use bot on a [Fake Number](https://youtu.be/v8lGcQp0RjQ). **[Also Read This](https://github.com/Kaweeshachamodk/Stefanie-#-warnings--disclaimers-)**
 
 ### 🔄 Can I Edit this bot?
 
@@ -92,7 +92,7 @@ There are **50+** Features/Commands Are there in **this bot!**
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-WhatsAlexa or we are not responsible for your account, 
+Stefanie or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -107,9 +107,9 @@ and we will try to help you.
     
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
- [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) | [![terror-boy](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![En-Cuzier](https://github.com/En-Cuzier.png?size=100)](https://github.com/En-Cuzier) |
+ [![TOXIC-DEVIL](https://github.com/Kaweeshachamodk.png?size=100)](https://github.com/TOXIC-DEVIL) | [![terror-boy](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![En-Cuzier](https://github.com/En-Cuzier.png?size=100)](https://github.com/En-Cuzier) |
 ----|----|----|
-[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | [terror-boy](https://github.com/terror-boy) | [En-Cuzier](https://github.com/terror-boy) |
+[Kaweesha Chamod](https://github.com/Kaweeshachamodk)  | [terror-boy](https://github.com/terror-boy) | [En-Cuzier](https://github.com/terror-boy) |
 Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Bug Fixes ( Minor )| Contributor: Modules |
 
 ## ✨ Special Features ✨
