@@ -1,11 +1,11 @@
-## 🤔 What is WhatsAlexa?! 🤔
-- **WhatsAlexa** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Alexa has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
+## 🤔 What is Stefanie?! 🤔
+- **Stefanie** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Stefanie has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
 
 
 <p align="center">
     <a href="https://github.com/TOXIC-DEVIL">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+WhatsAlexa...+Thank+You+For+Visiting...."
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Stefanie...+Thank+You+For+Visiting...."
             alt="Typing SVG"
         />
     </a>
@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://rotf.lol/Whats-Alexa-Gif-TOXIC-DEVIL" width="200" height="200">
+  <img src="https://telegra.ph/file/2935d519d950f22aca296.jpg" width="200" height="200">
   <h1>WhatsAlexa</h1>
 </div>
 <p align="center">
