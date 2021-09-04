@@ -17,7 +17,7 @@
   <h1>Stefanie</h1>
 </div>
 <p align="center">
-    Stefanie is a Helper WhatsApp Bot Written By @Kaweesha Chamor with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
+    Stefanie is a Helper WhatsApp Bot Written By @Kaweesha Chamor with Baileys. Stefanie🥰 has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
      <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/Stefanie?color=green&label=Repo%20total%20size&style=plastic">
 
