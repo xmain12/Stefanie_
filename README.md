@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/TOXIC-DEVIL">
+    <a href="https://github.com/Kaweeshachamodk">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Stefanie...+Thank+You+For+Visiting...."
             alt="Typing SVG"
@@ -28,27 +28,27 @@
 
 ## ⚙️ Setup ⚙️
 ```
-# bash <(curl -L rotf.lol/WhatsAlexa-Toxic-Devil)
+# bash <(curl -L rotf.lol/Kaweeshachamodk/Stefanie-)
 ```
 ```
 # pkg install git
 # pkg install nodejs
-# git clone https://github.com/TOXIC-DEVIL/WhatsAlexa
+# git clone https://github.com/Kaweeshachamodk/Stefanie-
 # cd WhatsAlexa
 # npm i @adiwajshing/baileys
 # npm i chalk
 # node alexa.js
 ```
   
-## 💫 Deploy & Run WhatsAlexa 💫
+## 💫 Deploy & Run Stefanie 💫
 
 **If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
 
-[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAlexa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
+[![Run on Repl.it](https://repl.it/badge/github/Kaweeshachamodk/Stefanie-)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
 
-[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/WhatsAlexa-1)
+[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/WhatsAlexa-1)
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
 
@@ -66,7 +66,7 @@ If you are concerned about security, you can install it on your own computer. If
 
 ### 📃 How Can I Download the Bot Script?
 
-You Can **[Click Here](https://github.com/TOXIC-DEVIL/WhatsAlexa/archive/refs/heads/master.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.**
+You Can **[Click Here](https://github.com/Kaweeshachamodk/Stefanie-/archive/refs/heads/master.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.**
 
 ### ⚙ Is this a Heroku bot?
 
