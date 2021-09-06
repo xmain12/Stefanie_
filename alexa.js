@@ -12,7 +12,8 @@ async function Alexa () {
     
     conn.on('connecting', async () => {
         console.log(`${chalk.green.bold('WhatsAlexa')}
-${chalk.white.bold('Made By ')}${chalk.red.bold('TOXIC DEVIL')}
+${chalk.white.italic('Made By ')}${chalk.red.bold('TOXIC DEVIL Modifiying as public @MrChaby')}
+
 ${chalk.blue.italic('🔄 Loading QR CODE...')}`);
     });
     
@@ -38,3 +39,5 @@ ${chalk.blue.italic('🔄 Loading QR CODE...')}`);
 
     await conn.connect();
 }
+
+Alexa()

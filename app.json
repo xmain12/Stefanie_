@@ -1,45 +1,50 @@
 {
-    "name": "WhatsAlexa",
-    "description": "WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].",
+    "name": "WhatsAlexa v2",
+    "description": "WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Modifiying as public @MrChaby. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].",
     "logo": "https://i.ibb.co/KGMms2Z/Whats-Alexa.jpg",
     "keywords": ["whatsapp", "Voice", "Alexa", "WhatsAlexa", "bot", "api", "ai"],
-    "repository": "https://github.com/TOXIC-DEVIL/WhatsAlexa",
-    "website":   "https://toxic-devil.github.io",
-    "success_url": "https://toxic-devil.github.io",
+    "repository": "https://github.com/MrChaby/WhatsAlexa",
+    "website":   "https://github.com/MrChaby",
+    "success_url": "https://github.com/MrChaby",
     "stack": "container",
     "env": {
-        "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Private commands can be used by this admins! SUDO; Your number must be an international number. So you should have your number after the country code. Example: 9199xxxxxxxx ( This is an Example of Indian number +91 )",
-            "required": false
-        },
-        "ALEXA_SESSION": {
+        "SESSION": {
             "description": "Enter the copied SESSION here ( Copied code starting with Alexa===eyJj & ending with 9In0= ).",
             "required": true
+        },
+        "SUDO": {
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 9199xxxxxxxx ( This is an Example of Indian number +91 )",
+            "required": false
         },
         "LANGUAGE": {
             "description": "Bot languages. Malayalam => ML, Indonesia => ID, English => EN ( Enter any one only )",
             "required": true,
             "value": "EN"
         },
-        "ANTI_LINK": {
-            "description": "It makes the bot Antilink.",
+        "BOT_STATUS": {
+            "description": "Type the status of bot, statuses: online => Always Shows the online, offline => Always Shows offline, typing => Always Shows typing, recording => Always Shows recording.. NOTE : THE STATUS WILL BE PERMANENT, UNTIL THE BOT IS ALIVE / RUNNING / WORKING",
+            "required": false,
+            "value": "offline"
+        },
+        "WORK_TYPE": {
+            "description": "WhatsAlexa Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "required": true,
+            "value": "public"
+        },
+        "FULL_ALEXA": {
+            "description": "Turn your account into a chatbot! Replys To The Private chat messages by the Alexa Chatbot.",
             "required": true,
             "value": "false"
         },
         "HANDLERS": {
             "description": "Symbol used infront of a command ( Prefix ). NOTE : ONLY SYMBOL CAN BE USED, DON'T ENTER ANY OTHER LATIN WORDS / ALPHABETS, IF IT HAPPENS BOT WILL NOT WORK.",
             "required": true,
-            "value": "^[#!.]"
+            "value": "^[#]"
         },
-        "OWNER_NAME": {
-            "description": "Enter the owner name, You must enter your name ( This name will be shown on some commands )",
-            "required": false,
-            "value": "TOXIC DEVIL"
-        },
-        "OWNER_NUMBER": {
-            "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
-            "required": false,
-            "value": "94768826133"
+        "NO_LOG": {
+            "description": "Set true if you don't want to see error log.",
+            "required": true,
+            "value": "false"
         },
         "SEND_READ": {
             "description": "The bot reads the incoming messages ( only commands sent by others so privacy is not breaking there ).",
@@ -60,28 +65,8 @@
             "required": false,
             "value": "default"
         },
-        "BOT_PRESENCE": {
-            "description": "Type the Presence of bot, presences: online => Always Shows the online, offline => Always Shows offline, typing => Always Shows typing, recording => Always Shows recording.. NOTE : THE PRESENCE WILL BE PERMANENT, UNTIL THE BOT IS ALIVE / RUNNING / WORKING",
-            "required": false,
-            "value": "offline"
-        },
         "UNMUTE_MESSAGE": {
             "description": "Customizable Unmute Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "ALIVE_MESSAGE": {
-            "description": "Customizable Alive Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "AUTO_BIO": {
-            "description": "Changes your bio automaticly to a Time clock.",
-            "required": true,
-            "value": "false"
-        },
-        "BAN_MESSAGE": {
-            "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
             "value": "default"
         },
@@ -94,15 +79,15 @@
             "required": true,
             "value": "false"
         },
-        "WORK_TYPE": {
-            "description": "WhatsAlexa Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
-            "required": true,
-            "value": "public"
-        },
-        "REMOVE_BG_API_KEY": {
-            "description": "Type the remove bg api. This is an Important one! ( RemoveBg Api : https://remove.bg  , Type this on the blank )",
+        "ALIVE_MESSAGE": {
+            "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "https://remove.bg"
+            "value": "default"
+        },
+        "BAN_MESSAGE": {
+            "description": "Customizable Ban Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
@@ -118,6 +103,19 @@
             "description": "Customizable Demote Message! Use => default, to change back.",
             "required": false,
             "value": "default"
+        },
+        "AFK_MESSAGE": {
+            "description": "Customizable AFK Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "CK": {
+            "description": "Caption text.",
+            "required": false
+        },
+        "RBG_API": {
+            "description": "Removes the background of the photos. Get Api https://remove.bg",
+            "required": false
         }
     },
     "addons": [{
