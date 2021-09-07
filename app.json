@@ -29,7 +29,7 @@
         "BOT_STATUS": {
             "description": "Type the status of bot, statuses: online => Always Shows the online, offline => Always Shows offline, typing => Always Shows typing, recording => Always Shows recording.. NOTE : THE STATUS WILL BE PERMANENT, UNTIL THE BOT IS ALIVE / RUNNING / WORKING",
             "required": false,
-            "value": "offline"
+            "value": "online"
         },
         "WORK_TYPE": {
             "description": "WhatsAlexa Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
@@ -44,7 +44,7 @@
         "HANDLERS": {
             "description": "Symbol used infront of a command ( Prefix ). NOTE : ONLY SYMBOL CAN BE USED, DON'T ENTER ANY OTHER LATIN WORDS / ALPHABETS, IF IT HAPPENS BOT WILL NOT WORK.",
             "required": true,
-            "value": "^[#]"
+            "value": "^[#.,]"
         },
         "NO_LOG": {
             "description": "Set true if you don't want to see error log.",
@@ -54,7 +54,7 @@
         "SEND_READ": {
             "description": "The bot reads the incoming messages ( only commands sent by others so privacy is not breaking there ).",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "HEROKU": {
             "description": "Type 'true' Iff the bot is running in  Heroku Else type 'false'.",
