@@ -3,9 +3,9 @@
 
 
 <p align="center">
-    <a href="https://github.com/TOXIC-DEVIL">
+    <a href="https://github.com/Kaweeshachamodk">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+WhatsAlexa...+Thank+You+For+Visiting...."
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Stefanie...+Thank+You+For+Visiting...."
             alt="Typing SVG"
         />
     </a>
@@ -19,21 +19,21 @@
 <p align="center">
     Stefanie is a Helper WhatsApp Bot Written By @Kaweeshachamodk with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
-     <img src="https://img.shields.io/github/repo-size/TOXIC-DEVIL/WhatsAlexa?color=green&label=Repo%20total%20size&style=plastic">
+     <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/Stefanie_?color=green&label=Repo%20total%20size&style=plastic">
 
 <p align="center">
-<a href="https://github.com/TOXIC-DEVIL/WhatsAlexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TOXIC-DEVIL/WhatsAlexa?color=blue&style=flat-square"></a>
-<a href="https://github.com/TOXIC-DEVIL/WhatsAlexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TOXIC-DEVIL/WhatsAlexa?color=pink&style=flat-square"></a>
+<a href="https://github.com/Kaweeshachamodk/Stefanie_/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kaweeshachamodk/Stefanie_?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kaweeshachamodk/Stefanie_/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kaweeshachamodk/Stefanie_?color=pink&style=flat-square"></a>
 
 
 ## ⚙️ Setup ⚙️
 ```
-# bash <(curl -L rotf.lol/WhatsAlexa-Toxic-Devil)
+# bash <(curl -L rotf.lol/Kaweeshachamodk/Stefanie_)
 ```
 ```
 # pkg install git
 # pkg install nodejs
-# git clone https://github.com/TOXIC-DEVIL/WhatsAlexa
+# git clone https://github.com/Kaweeshachamodk/Stefanie_
 # cd WhatsAlexa
 # npm i @adiwajshing/baileys
 # npm i chalk
@@ -48,7 +48,7 @@
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
 
-[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAlexa)
+[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie_)
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
 
@@ -66,7 +66,7 @@ If you are concerned about security, you can install it on your own computer. If
 
 ### 📃 How Can I Download the Bot Script?
 
-You Can **[Click Here](https://github.com/TOXIC-DEVIL/WhatsAlexa/archive/refs/heads/master.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.**
+You Can **[Click Here](https://github.com/Kaweeshachamodk/Stefanie_/archive/refs/heads/master.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.**
 
 ### ⚙ Is this a Heroku bot?
 
