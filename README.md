@@ -104,14 +104,14 @@ No personal support will be provided / We won't spoon feed you.
 If you need help ask in our support group 
 and we will try to help you.
 ```
- | [Budy X](https://github.com/MrChaby) 
+ | [](https://github.com/MrChaby) 
 OWNER | OWNER 
   </div>
     
 ##  Help  Budy X   
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
- [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) | [![terror-boy](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![En-Cuzier](https://github.com/En-Cuzier.png?size=100)](https://github.com/En-Cuzier) |
+ [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) | [![terror-boy](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![Budy X](https://github.com/Budy X.png?size=100)](https://github.com/MrChaby) |
 ----|----|----|
 [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | [terror-boy](https://github.com/terror-boy) | [MrCbaby](https://github.com/MrChaby) |
 Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Bug Fixes ( Minor )| Contributor: Modules |
