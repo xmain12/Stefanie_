@@ -108,7 +108,7 @@ and we will try to help you.
 ##  Help  Budy X   
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
- [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) | [![terror-boy](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |
+ [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL)  | [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |
 ----|----|----|
 [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | [MrCbaby](https://github.com/MrChaby) |
 Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Bug Fixes ( Minor )| Contributor: Modules |
