@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://telegra.ph/file/7a8c47c246bd16d90623d.jpg" width="200" height="200">
-  <h1>WhatsAlexa</h1>
+  <h1>Stefanie</h1>
 </div>
 <p align="center">
     Stefanie is a Helper WhatsApp Bot Written By @Kaweeshachamodk with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
