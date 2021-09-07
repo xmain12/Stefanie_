@@ -9,6 +9,4 @@
 
 ## 💫 Deploy WhatsAlexa on Heroku 💫
 
-[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie-1)
-
-#
+[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie_)
