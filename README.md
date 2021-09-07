@@ -109,7 +109,7 @@ and we will try to help you.
 
  [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) | [![terror-boy](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![En-Cuzier](https://github.com/En-Cuzier.png?size=100)](https://github.com/En-Cuzier) |
 ----|----|----|
-[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | [terror-boy](https://github.com/terror-boy) | [En-Cuzier](https://github.com/terror-boy) |
+[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | [terror-boy](https://github.com/terror-boy) | [MrCbaby](https://github.com/MrChaby) |
 Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Bug Fixes ( Minor )| Contributor: Modules |
 
 ## ✨ Special Features ✨
