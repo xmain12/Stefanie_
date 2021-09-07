@@ -1,5 +1,5 @@
-## 🤔 What is WhatsAlexa?! 🤔
-- **WhatsAlexa** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Alexa has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
+## 🤔 What is Stefanie?! 🤔
+- **Stefanie** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Stefanie has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
 
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 
 <div align="center">
-  <img src="https://rotf.lol/Whats-Alexa-Gif-TOXIC-DEVIL" width="200" height="200">
+  <img src="https://telegra.ph/file/7a8c47c246bd16d90623d.jpg" width="200" height="200">
   <h1>WhatsAlexa</h1>
 </div>
 <p align="center">
-    WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
+    Stefanie is a Helper WhatsApp Bot Written By @Kaweeshachamodk with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
      <img src="https://img.shields.io/github/repo-size/TOXIC-DEVIL/WhatsAlexa?color=green&label=Repo%20total%20size&style=plastic">
 
@@ -40,7 +40,7 @@
 # node alexa.js
 ```
   
-## 💫 Deploy & Run WhatsAlexa 💫
+## 💫 Deploy & Run Stefanie 💫
 
 **If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
 
