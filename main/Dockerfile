@@ -2,7 +2,7 @@ FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/Kaweeshachamodk/bady /root/WhatsAlexa
 
-WORKDIR /root/bady/
+WORKDIR /root/bady
 
 ENV TZ=Europe/Istanbul
 
