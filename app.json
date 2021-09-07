@@ -1,19 +1,19 @@
 {
-    "name": "WhatsAlexa",
-    "description": "WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].",
-    "logo": "https://i.ibb.co/KGMms2Z/Whats-Alexa.jpg",
+    "name": "Stefanie-1",
+    "description": "WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Modifiying as public @MrChaby. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].",
+    "logo": "https://telegra.ph/file/fbb8f75bf5f7f477ff92d.jpg",
     "keywords": ["whatsapp", "Voice", "Alexa", "WhatsAlexa", "bot", "api", "ai"],
-    "repository": "https://github.com/TOXIC-DEVIL/WhatsAlexa",
-    "website":   "https://toxic-devil.github.io",
-    "success_url": "https://toxic-devil.github.io",
+    "repository": "https://github.com/Kaweeshachamodk/Stefanie-1",
+    "website":   "https://github.com/Kaweeshachamodk",
+    "success_url": "https://github.com/Kaweeshachamodk",
     "stack": "container",
     "env": {
         "SESSION": {
             "description": "Enter the copied SESSION here ( Copied code starting with Alexa===eyJj & ending with 9In0= ).",
             "required": true
         },
-        "DUAL_MODE": {
-            "description": "Leave blank if you don't know how to use it! Dual mode; Your number must be an international number. So you should have your number after the country code. Example: 9199xxxxxxxx ( This is an Example of Indian number +91 )",
+        "SUDO": {
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 9199xxxxxxxx ( This is an Example of Indian number +91 )",
             "required": false
         },
         "LANGUAGE": {
@@ -21,8 +21,13 @@
             "required": true,
             "value": "EN"
         },
-        "BOT_PRESENCE": {
-            "description": "Type the Presence of bot, presences: online => Always Shows the online, offline => Always Shows offline, typing => Always Shows typing, recording => Always Shows recording.. NOTE : THE PRESENCE WILL BE PERMANENT, UNTIL THE BOT IS ALIVE / RUNNING / WORKING",
+        "AUTO_BIO": {
+            "description": "Bot languages. Malayalam => ML, Indonesia => ID, English => EN ( Enter any one only )",
+            "required": true,
+            "value": "true"
+        },
+        "BOT_STATUS": {
+            "description": "Type the status of bot, statuses: online => Always Shows the online, offline => Always Shows offline, typing => Always Shows typing, recording => Always Shows recording.. NOTE : THE STATUS WILL BE PERMANENT, UNTIL THE BOT IS ALIVE / RUNNING / WORKING",
             "required": false,
             "value": "offline"
         },
@@ -41,8 +46,8 @@
             "required": true,
             "value": "^[#]"
         },
-        "AUTO_BIO": {
-            "description": "Changes your bio automaticly to a Time clock.",
+        "NO_LOG": {
+            "description": "Set true if you don't want to see error log.",
             "required": true,
             "value": "false"
         },
@@ -113,6 +118,14 @@
             "description": "Customizable AFK Message! Use => default, to change back.",
             "required": false,
             "value": "default"
+        },
+        "CK": {
+            "description": "Caption text.",
+            "required": false
+        },
+        "RBG_API": {
+            "description": "Removes the background of the photos. Get Api https://remove.bg",
+            "required": false
         }
     },
     "addons": [{
