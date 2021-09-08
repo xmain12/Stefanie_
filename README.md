@@ -110,7 +110,7 @@ and we will try to help you.
 
  [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) | [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |
 ----|----|----|
-[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | [MrCbaby](https://github.com/MrChaby) |
+[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [MrCbaby](https://github.com/MrChaby) |
 Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Bug Fixes ( Minor )| Contributor: Modules |
 
 ## ✨ Special Features ✨
