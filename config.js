@@ -32,7 +32,7 @@ module.exports = {
     HANDLERS: process.env.HANDLERS === undefined ? '^[.,#]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     BRANCH: 'master',
-    DEVELOPER: 'Kaweesha Chamod',
+    DEVELOPER: 'Kaweesha Chmod',
     AUTHOR: 'Kaweesha Chamod',
     GIT: 'https://github.com/Kaweeshachamodk/Stefanie_.git',
     HEROKU: {
