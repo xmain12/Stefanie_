@@ -107,7 +107,7 @@ ${chalk.blue.italic('Made By TOXIC-DEVIL')}`);
         );
 
         console.log(
-            chalk.blueBright.italic('⬇️ INSTALLING COMMANDS...')
+            chalk.blueBright.italic('⬇️ INSTALING COMMANDS...')
         );
 
         var plugins = await plugindb.PluginDB.findAll();
