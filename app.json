@@ -17,7 +17,7 @@
             "required": true
         },
         "LANGUAGE": {
-            "description": "Bot languages. Malayalam => ML, Indonesia => ID, English => EN ( Enter any one only )",
+            "description": "Bot lanuages. Malayalam => ML, Indonesia => ID, English => EN ( Enter any one only )",
             "required": true,
             "value": "EN"
         },
