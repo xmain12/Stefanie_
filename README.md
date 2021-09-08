@@ -94,15 +94,15 @@ and we will try to help you.
 
 ## ⚡Special thanks for Mr.chabi
 
-  🔗 https://github.com/MrChaby/Jessi
-
   <div align="center">
 
-    
+  <img src="https://telegra.ph/file/43671afb59b0578ad4a46.jpg" width="200" height="200">
 
-  [![Mr.chabi](<img src=https://telegra.ph/file/43671afb59b0578ad4a46.jpg>
+  <h1>Mr Chabby</h1>
 
- https://github.com/MrChaby/Jessi |
+</div>
+  
+ 
 
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
