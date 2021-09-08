@@ -28,7 +28,7 @@
 
 ## ⚙️ Setup ⚙️
 <p align="center">
-<a href="#"><img title="Click this logo and setup your bot" src="https://img.shields.io/badge/https://github.com/Kaweeshachamodk/Stefanie-support--green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="https://github.com/Kaweeshachamodk/Stefanie-support-" src="https://img.shields.io/badge/Click this logo and setup your bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
