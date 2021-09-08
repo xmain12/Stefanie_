@@ -212,13 +212,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*🥳 WhatsAlexa a new update available..!\nType *'#update now'* to update the Bot\n\n🆕 Changes After this update:\n\n```",
+            "NEW_UPDATE": "*🥳 Stefanie a new update available..!\nType *'#update now'* to update the Bot\n\n🆕 Changes After this update:\n\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "🔁 WhatsAlexa Updating...!\n🕓 This may Take a few minutes.",
+            "UPDATING": "🔁 Stefanie Updating...!\n🕓 This may Take a few minutes.",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*✅ Successfully Updated! 🎉*",
             "UPDATED_LOCAL": "*✅ Successfully Updated! 🎉*",
-            "AFTER_UPDATE": "*💬 WhatsAlexa Restarting Automatically!*"
+            "AFTER_UPDATE": "*💬 Stefanie Restarting Automatically!*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
