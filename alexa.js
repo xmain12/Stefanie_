@@ -32,7 +32,7 @@ ${chalk.blue.italic('🔄 Loading QR CODE...')}`);
             chalk.red.bold('⚠ COPY THIS CODE, It is an IMPORTANT CODE... ⚠'))
             
         console.log(
-            chalk.blue.bold('Thank You For Using WhatsAlex 💖'))
+            chalk.blue.bold('Thank You For Using WhatsAlexa 💖'))
 
         process.exit(0);
     });
