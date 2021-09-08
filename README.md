@@ -90,10 +90,19 @@ No personal support will be provided / We won't spoon feed you.
 If you need help ask in our support group 
 and we will try to help you.
 ```
-## special thanks for   
-##  Help  Budy X   
+ 
 
-[Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby)
+## ⚡Special thanks for Mr.chabi
+
+  🔗 https://github.com/MrChaby/Jessi
+
+  <div align="center">
+
+    
+
+  [![Mr.chabi](<img src=https://telegra.ph/file/43671afb59b0578ad4a46.jpg>
+
+ https://github.com/MrChaby/Jessi |
 
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
