@@ -27,6 +27,9 @@
 
 
 ## ⚙️ Setup ⚙️
+
+## Click this logo and set up your bot🥰
+## 👇
 </p>
   <p align="center">
 <a href="https://github.com/Kaweeshachamodk/Stefanie-support-"><img title="Click this logo and setup your bot" src="https://img.shields.io/badge/click this logo and sey up your bot-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
