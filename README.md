@@ -27,28 +27,7 @@
 
 
 ## ⚙️ Setup ⚙️
-```
-# bash <(curl -L rotf.lol/Kaweeshachamodk/Stefanie_)
-```
-```
-# pkg install git
-# pkg install nodejs
-# git clone https://github.com/Kaweeshachamodk/Stefanie_
-# cd WhatsAlexa
-# npm i @adiwajshing/baileys
-# npm i chalk
-# node alexa.js
-```
-  
-## 💫 Deploy & Run Stefanie 💫
 
-**If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
-
-[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAlexa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
-
-**You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
-
-[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie_)
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
 
