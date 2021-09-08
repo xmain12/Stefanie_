@@ -32,7 +32,7 @@
 ## 👇
 </p>
   <p align="center">
-<a href="https://github.com/Kaweeshachamodk/Stefanie-support-"><img title="Click this logo and setup your bot" src="https://img.shields.io/badge/click this logo and sey up your bot-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Kaweeshachamodk/Stefanie-support-"><img title="Click this logo and setup your bot" src="https://img.shields.io/badge/click this logo and sey up your bot-afnanplk/pinkymwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
