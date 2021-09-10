@@ -165,7 +165,7 @@ if (Config.LANG == 'ID') language = 'Indonasian', FMSG = 'Semoga harimu menyenan
         }
     }));
 
-    WhatsAlexa.addCommand({pattern: 'help ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
+    WhatsAlexa.addCommand({pattern: 'rawana ?(.*)', fromMe: td, dontAddCommandList: true}, (async (message, match) => {
 
         var CMD_HELP = '';
         if (match[1] === '') {
