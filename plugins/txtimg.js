@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
 
     Asena.addCommand({pattern: 'txtimg', fromMe: true, desc: EFFECT_DESC}, (async (message, match) => {    
 
-    await message.sendMessage('*🍭Jessi text macker🍭*\n\n\n⚙️cmd: *.ay*\nℹ️DECP: ඔබේ නම සමඟ Neon Anonymous Logo සෑදීම.\n\n⚙️cmd: *.cod*\nℹ️DECP: ඔබේ නම සමඟ codwarzone logo සෑදීම.\n\n⚙️cmd: *.glitch*\nℹ️DECP: Text සිට Tiktok glitch effect.\n_(Ex: .glitch Ms/Jessica)_\n\n⚙️cmd: *.pemoji*\nℹ️DECP: Emoji සිට පින්තූරයට.\n\n⚙️cmd: *.gaming*\nℹ️DECP: ඔබේ නම සමඟ gaming logo සෑදීම.\n\n⚙️cmd: *.fps*\nℹ️DECP: ඔබේ නම සමඟ fps gaming logo සෑදීම.\n\n⚙️cmd: *.ff*\nℹ️DECP: ඔබේ නම සමඟ Free Fire logo සෑදීම.\n\n⚙️cmd: *.av*\nℹ️DECP: ඔබේ නම සමඟ Avengers logo සෑදීම.\n\n⚙️cmd: *.lionlogo*\nℹ️DECP: ඔබේ නම සමඟ lion logo සෑදීම.\n_(Ex: .lionlogo Ms/Jessica)_\n\n⚙️cmd: *.metal*\nℹ️DECP: ඔබේ නම සමඟ iron logo සෑදීම.\n\n⚙️cmd: *.pornhub*\nℹ️DECP: එය සපයා ඇති text කළු පැහැති තැඹිලි පාට රූපයක් යවයි.\nඔබ පිළිවෙලින් */* මගින් වෙන් කර ඇති top සහ bottom text ඇතුළත් කළ යුතුය.\n\n⚙️cmd: *.sandwriting*\nℹ️DECP: එය සපයා ඇති textයේ වැලි රූපයක් යවයි.\n\n⚙️cmd: *.blackpink*\nℹ️DECP: එය සපයා ඇති textයේ black pink logo යවයි.\n\n⚙️cmd: *.blood*\nℹ️DECP: එය සපයා ඇති textයේ රුධිර රූපයක් යවයි.\n\n⚙️cmd: *.thunder*\nℹ️DECP: එය සපයා ඇති textයේ අකුණු සහිත රූපයක් යවයි.\n\n⚙️cmd: *.snow*\nℹ️DECP: එය සපයා ඇති textයේ හිම රූපයක් යවයි.\n\n⚙️cmd: *.light*\nℹ️DECP: එය සපයා ඇති textයේ light effect යවයි.\n\n⚙️cmd: *.cloud*\nℹ️DECP: එය සපයා ඇති textයේ අහස රූපයක් යවයි.\n\n⚙️cmd: *.sparkling*\nℹ️DECP: Text දීප්තිමත් තේමා රූපයක් බවට පරිවර්තනය කරයි\nඔබ පිළිවෙලින් */* මගින් වෙන් කර ඇති top සහ bottom text ඇතුළත් කළ යුතුය.\n\n⚙️cmd: *.watercolour*\nℹ️DECP: Text ජල වර්ණ තේමා රූපයක් බවට පරිවර්තනය කරයි.\n\n⚙️cmd: *.neonlight*\nℹ️DECP: Text නියොන් ආලෝක තේමා රූපයක් බවට පරිවර්තනය කරයි.\n\n⚙️cmd: *.3dtext*\nℹ️DECP: ලබා දී ඇති text ත්‍රිමාණ විලාසිතාවේ රූපයක් බවට පරිවර්තනය කරයි.\n\n⚙️cmd: *.v3d*\nℹ️DECP: සපයා ඇති text violet ත්‍රිමාණ විලාසිතාවේ රූපයක් බවට පරිවර්තනය කරයි.');
+    await message.sendMessage('*🍭Stefanie text macker🍭*\n\n\n⚙️cmd: *.ay*\nℹ️DECP: ඔබේ නම සමඟ Neon Anonymous Logo සෑදීම.\n\n⚙️cmd: *.cod*\nℹ️DECP: ඔබේ නම සමඟ codwarzone logo සෑදීම.\n\n⚙️cmd: *.glitch*\nℹ️DECP: Text සිට Tiktok glitch effect.\n_(Ex: .glitch Ms/Jessica)_\n\n⚙️cmd: *.pemoji*\nℹ️DECP: Emoji සිට පින්තූරයට.\n\n⚙️cmd: *.gaming*\nℹ️DECP: ඔබේ නම සමඟ gaming logo සෑදීම.\n\n⚙️cmd: *.fps*\nℹ️DECP: ඔබේ නම සමඟ fps gaming logo සෑදීම.\n\n⚙️cmd: *.ff*\nℹ️DECP: ඔබේ නම සමඟ Free Fire logo සෑදීම.\n\n⚙️cmd: *.av*\nℹ️DECP: ඔබේ නම සමඟ Avengers logo සෑදීම.\n\n⚙️cmd: *.lionlogo*\nℹ️DECP: ඔබේ නම සමඟ lion logo සෑදීම.\n_(Ex: .lionlogo Ms/Jessica)_\n\n⚙️cmd: *.metal*\nℹ️DECP: ඔබේ නම සමඟ iron logo සෑදීම.\n\n⚙️cmd: *.pornhub*\nℹ️DECP: එය සපයා ඇති text කළු පැහැති තැඹිලි පාට රූපයක් යවයි.\nඔබ පිළිවෙලින් */* මගින් වෙන් කර ඇති top සහ bottom text ඇතුළත් කළ යුතුය.\n\n⚙️cmd: *.sandwriting*\nℹ️DECP: එය සපයා ඇති textයේ වැලි රූපයක් යවයි.\n\n⚙️cmd: *.blackpink*\nℹ️DECP: එය සපයා ඇති textයේ black pink logo යවයි.\n\n⚙️cmd: *.blood*\nℹ️DECP: එය සපයා ඇති textයේ රුධිර රූපයක් යවයි.\n\n⚙️cmd: *.thunder*\nℹ️DECP: එය සපයා ඇති textයේ අකුණු සහිත රූපයක් යවයි.\n\n⚙️cmd: *.snow*\nℹ️DECP: එය සපයා ඇති textයේ හිම රූපයක් යවයි.\n\n⚙️cmd: *.light*\nℹ️DECP: එය සපයා ඇති textයේ light effect යවයි.\n\n⚙️cmd: *.cloud*\nℹ️DECP: එය සපයා ඇති textයේ අහස රූපයක් යවයි.\n\n⚙️cmd: *.sparkling*\nℹ️DECP: Text දීප්තිමත් තේමා රූපයක් බවට පරිවර්තනය කරයි\nඔබ පිළිවෙලින් */* මගින් වෙන් කර ඇති top සහ bottom text ඇතුළත් කළ යුතුය.\n\n⚙️cmd: *.watercolour*\nℹ️DECP: Text ජල වර්ණ තේමා රූපයක් බවට පරිවර්තනය කරයි.\n\n⚙️cmd: *.neonlight*\nℹ️DECP: Text නියොන් ආලෝක තේමා රූපයක් බවට පරිවර්තනය කරයි.\n\n⚙️cmd: *.3dtext*\nℹ️DECP: ලබා දී ඇති text ත්‍රිමාණ විලාසිතාවේ රූපයක් බවට පරිවර්තනය කරයි.\n\n⚙️cmd: *.v3d*\nℹ️DECP: සපයා ඇති text violet ත්‍රිමාණ විලාසිතාවේ රූපයක් බවට පරිවර්තනය කරයි.');
         
     }));
 
@@ -29,7 +29,7 @@ if (Config.WORKTYPE == 'private') {
 
     var webimage = await axios.get(`https://lolhuman.herokuapp.com/api/textprome2/glitch?apikey=e1ee2b3d3b00e58f2511ad95&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -46,7 +46,7 @@ if (Config.WORKTYPE == 'private') {
 
     var webimage = await axios.get(`https://lolhuman.herokuapp.com/api/ephoto2/codwarzone?apikey=955f78039fa9fd038583b180&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -57,7 +57,7 @@ if (Config.WORKTYPE == 'private') {
 
     var webimage = await axios.get(`https://api.zeks.xyz/api/epep?apikey=fHZpP3j61LgH80BzanBm92jch1Q&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -74,7 +74,7 @@ if (Config.WORKTYPE == 'private') {
 
     var webimage = await axios.get(`https://api.zeks.xyz/api/logoaveng?apikey=fHZpP3j61LgH80BzanBm92jch1Q&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -84,7 +84,7 @@ if (Config.WORKTYPE == 'private') {
 
     var webimage = await axios.get(`https://api.zeks.xyz/api/text3dbox?apikey=fHZpP3j61LgH80BzanBm92jch1Q&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-  await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+  await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -94,7 +94,7 @@ if (Config.WORKTYPE == 'private') {
 
     var webimage = await axios.get(`https://api.zeks.xyz/api/thundertext?apikey=fHZpP3j61LgH80BzanBm92jch1Q&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -491,7 +491,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://api.zeks.xyz/api/sandw?apikey=LVJsk3tIlDiQUa4AuncQAYe9XIp&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -501,7 +501,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://lolhuman.herokuapp.com/api/textprome/cloud?apikey=e1ee2b3d3b00e58f2511ad95&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -518,7 +518,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://api.zeks.xyz/api/phlogo?apikey=LVJsk3tIlDiQUa4AuncQAYe9XIp&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg , caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg , caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -528,7 +528,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://lolhuman.herokuapp.com/api/ephoto1/snow3d?apikey=e1ee2b3d3b00e58f2511ad95&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -544,7 +544,7 @@ if (Config.WORKTYPE == 'public') {
 }
     var webimage = await axios.get(`https://lolhuman.herokuapp.com/api/textprome2/lionlogo?apikey=e1ee2b3d3b00e58f2511ad95&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -554,7 +554,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://lolhuman.herokuapp.com/api/ephoto1/logogaming?apikey=e1ee2b3d3b00e58f2511ad95&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -564,7 +564,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://lolhuman.herokuapp.com/api/ephoto1/fpslogo?apikey=e1ee2b3d3b00e58f2511ad95&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -574,7 +574,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://videfikri.com/api/textmaker/lovemsg/?text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -584,7 +584,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://lolhuman.herokuapp.com/api/textprome/bloodfrosted?apikey=e1ee2b3d3b00e58f2511ad95&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 
@@ -604,7 +604,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://lolhuman.herokuapp.com/api/textprome/box3d?apikey=e1ee2b3d3b00e58f2511ad95&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
     
@@ -614,7 +614,7 @@ if (Config.WORKTYPE == 'public') {
 
     var webimage = await axios.get(`https://api.zeks.xyz/api/naruto?apikey=LVJsk3tIlDiQUa4AuncQAYe9XIp&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MsJessica*\n```powerd by WhatsAsena☇```'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Stefanie*\n```powerd by WhatsAlexa☇```'})
 
     }));
 }
