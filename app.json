@@ -44,7 +44,7 @@
         "SEND_READ": {
             "description": "The bot reads the incoming messages ( only commands sent by others so privacy is not breaking there ).",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "HEROKU": {
             "description": "Type 'true' Iff the bot is running in  Heroku Else type 'false'.",
@@ -63,7 +63,7 @@
         "BOT_PRESENCE": {
             "description": "Type the Presence of bot, presences: online => Always Shows the online, offline => Always Shows offline, typing => Always Shows typing, recording => Always Shows recording.. NOTE : THE PRESENCE WILL BE PERMANENT, UNTIL THE BOT IS ALIVE / RUNNING / WORKING",
             "required": false,
-            "value": "offline"
+            "value": "online"
         },
         "UNMUTE_MESSAGE": {
             "description": "Customizable Unmute Message! Use => default, to change back.",
@@ -78,7 +78,7 @@
         "AUTO_BIO": {
             "description": "Changes your bio automaticly to a Time clock.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
