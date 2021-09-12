@@ -1,22 +1,44 @@
-let WhatsAlexa = require('../events');
-let {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-let {spawnSync} = require('child_process');
-let Config = require('../config');
-let chalk = require('chalk');
-let axios = require('axios');
-let Language = require('../language');
-let Lang = Language.getString('system_stats');
+/* Copyright (C) 2020 TOXIC DEVIL
+
+CODDED BY TOXIC DEVIL
+
+Licensed under the  GPL-3.0 License;
+
+you may not use this file except in compliance with the License.
+WhatsAsenaPublic - TOXIC DEVIL
+*/
+
+const Asena = require('../events');
+const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
+const {spawnSync} = require('child_process');
+const Config = require('../config');
+const chalk = require('chalk');
+const axios = require('axios');
+
+const Language = require('../language');
+const Lang = Language.getString('system_stats');
+
 
 if (Config.WORKTYPE == 'private') {
 
-    WhatsAlexa.addCommand({pattern: 'alive', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
+    Asena.addCommand({pattern: 'alive', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
-       let pp
-        try { pp = await message.client.getProfilePicture(message.jid.includes('-') ? message.data.participant : message.jid ); } catch { pp = await message.client.getProfilePicture(); }
-        await axios.get(pp, {responseType: 'arraybuffer'}).then(async (res) => { await message.client.sendMessage(message.jid, res.data, MessageType.image, {mimetype: Mimetype.png, quoted: message.data, contextInfo: { forwardingScore: 2, isForwarded: true }, caption: '```💕 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n\n*Developer:* Kaweesha Chamod\n\n*Git :* https://github.com/Kaweeshachamodk/Stefanie_.git\n\n```💕 Copyright © 2021 💞\n Also Feel free to contribute & issue ( report issues & feature request on issue session of the ropo ).. ( https://kaweeshachamodk.github.io/Stefanie_/ ) 🙂❤️```' }); });
+        if (Config.ALIVEMSG == 'default') {
+            
+            var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
+       
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```1.0 Public Stable```\n\n*Branch:* ```master```\n\n*Developer:* ```TOXIC DEVIL```\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm\n\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```"})
+
+    }
+    else {
+            
+            var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
+       
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Made By TOXIC DEVIL*' })
+     }
     }));
 
-    WhatsAlexa.addCommand({pattern: 'sysd', fromMe: true, desc: Lang.SYSD_DESC}, (async (message, match) => {
+    Asena.addCommand({pattern: 'sysd', fromMe: true, desc: Lang.SYSD_DESC}, (async (message, match) => {
 
         if (message.jid === '905524317852-1612300121@g.us') {
 
@@ -31,14 +53,24 @@ if (Config.WORKTYPE == 'private') {
 }
 else if (Config.WORKTYPE == 'public') {
 
-    WhatsAlexa.addCommand({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (async (message, match) => {
+    Asena.addCommand({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
-        let pp
-        try { pp = await message.client.getProfilePicture(message.jid.includes('-') ? message.data.participant : message.jid ); } catch { pp = await message.client.getProfilePicture(); }
-        await axios.get(pp, {responseType: 'arraybuffer'}).then(async (res) => { await message.client.sendMessage(message.jid, res.data, MessageType.image, {mimetype: Mimetype.png, quoted: message.data, contextInfo: { forwardingScore: 2, isForwarded: true }, caption: '```💕 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n\n*Developer:* Kaweesha Chamod\n\n*Git :* https://github.com/Kaweeshachamodk/Stefanie_.git\n\n```💕 Copyright © 2021 💞\n Also Feel free to contribute & issue ( report issues & feature request on issue session of the ropo ).. ( https://kaweeshachamodk.github.io/Stefanie_/ ) 🙂❤️```' }); });
+        if (Config.ALIVEMSG == 'default') {
+            
+            var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
+       
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```🐺 Hey Bro!! I am still alive & kicking 😙```\n\n*Version:* ```1.0 Public Stable```\n\n*Branch:* ```master```\n\n*Developer:* ```TOXIC DEVIL```\n\n*WhatsApp Group 1 :* https://chat.whatsapp.com/Dt8hkeRksp29Cybh4AUSwm\n\n*WhatsApp Group 2 :* https://chat.whatsapp.com/KMHpUACludA5XIcPncFkl1\n\n```Thank You For Using WhatsAsenaPublic 🐺 💞```"})
+
+    }
+    else {
+            
+            var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
+       
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Made By TOXIC DEVIL*' })
+     }
     }));
 
-    WhatsAlexa.addCommand({pattern: 'sysd', fromMe: true, desc: Lang.SYSD_DESC}, (async (message, match) => {
+    Asena.addCommand({pattern: 'sysd', fromMe: false, desc: Lang.SYSD_DESC}, (async (message, match) => {
 
         if (message.jid === '905524317852-1612300121@g.us') {
 
@@ -50,4 +82,4 @@ else if (Config.WORKTYPE == 'public') {
             '```' + child + '```', MessageType.text
         );
     }));
-}
+} 
