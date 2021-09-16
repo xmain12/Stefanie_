@@ -10,12 +10,12 @@ Asena.addCommand({pattern: 'logopro', fromMe: false, desc: 'command help menu'},
     var r_text = new Array ();
     
     
-    r_text[0] = "https://telegra.ph/file/7a8c47c246bd16d90623d.jpg";
-    r_text[1] = "https://telegra.ph/file/7a8c47c246bd16d90623d.jpg";
-    r_text[2] = "https://telegra.ph/file/7a8c47c246bd16d90623d.jpg";
-    r_text[3] = "https://telegra.ph/file/7a8c47c246bd16d90623d.jpg";
-    r_text[4] = "https://telegra.ph/file/7a8c47c246bd16d90623d.jpg";
-    r_text[5] = "https://telegra.ph/file/7a8c47c246bd16d90623d.jpg";
+    r_text[0] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
+    r_text[1] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
+    r_text[2] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
+    r_text[3] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
+    r_text[4] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
+    r_text[5] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
     
     var i = Math.floor(6*Math.random())
 
