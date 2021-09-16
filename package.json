@@ -1,25 +1,25 @@
 {
-  "name": "WhatsAlexa",
-  "version": "5 First Release",
+  "name": "Stefanie",
+  "version": "5.1 beta",
   "description": "WhatsApp Bot.",
-  "main": "./WhatsAlexa/bot.js",
+  "main": "./Stefanie_/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrChaby/WhatsAlexa.git"
+    "url": "git+https://github.com/xmain12/Stefanie_.git"
   },
   "keywords": [
     "whatsapp"
   ],
   "author": "TOXIC-DEVIL",
-  "developer": "MrChaby",
+  "developer": "Kaweeshachamodk",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/MrChaby/WhatsAlexa/issues"
+    "url": "https://github.com/xmain12/Stefanie_/issues"
   },
-  "homepage": "https://github.com/MrChaby/WhatsAlexa#readme",
+  "homepage": "https://github.com/xmain12/Stefanie_#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "network-speed": "2.1.1",
