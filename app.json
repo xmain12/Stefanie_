@@ -24,7 +24,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message Photo.",
             "required": false,
-            "value": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg"
+            "value": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg"
        },
        "INBOX_BLOCK": {
             "description": "Activate Inbox Block System true or false",
