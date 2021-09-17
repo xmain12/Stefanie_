@@ -1,9 +1,3 @@
-/* Copyright (C) 2021 TENUX-Neotro.
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-NEOTROX - TEENUHX
-*/
-
 const Asena = require('../events');
 const config = require('../config');
 const Heroku = require('heroku-client');
@@ -25,11 +19,11 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         BGM_off = 'bgm option turned off'
     }
     if (config.LANG == 'EN') {
-        l_dsc = 'turn on and turn of Talking Angela. -bot owner command'
+        l_dsc = 'turn on and turn of Talking Stefanie. -bot owner command'
         alr_on = 'Antilink is already open!'
         alr_off = 'Antilink is currently closed!'
-        BGM_on = 'talking Angela option turned on!'
-        BGM_off = 'talking Angela option turned off'
+        BGM_on = 'talking Stefanie option turned on!'
+        BGM_off = 'talking Stefanie option turned off'
     }
     if (config.LANG == 'DI') {
         l_dsc = 'Talking Angela ක්‍රියාත්මක කිරීම.'
@@ -80,18 +74,18 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         BGM_on = 'bgm option turned on'
         BGM_off = 'bgm option turned off'
     }
-    Asena.addCommand({pattern: 'angela ?(.*)', fromMe: true, desc: l_dsc, usage: '.angela on / off' }, (async (message, match) => {
+    Asena.addCommand({pattern: 'Stefanie ?(.*)', fromMe: true, desc: l_dsc, usage: '.Stefanie on / off' }, (async (message, match) => {
         if (match[1] == 'off') {
                 await heroku.patch(baseURI + '/config-vars', { 
                     body: { 
-                        ['ANGELA_FILTER']: 'false'
+                        ['STEFANIE_FILTER']: 'false'
                     } 
                 });
                 await message.sendMessage(BGM_off)
         } else if (match[1] == 'on') {
                 await heroku.patch(baseURI + '/config-vars', { 
                     body: { 
-                        ['ANGELA_FILTER']: 'true'
+                        ['STEFANIE_FILTER']: 'true'
                     } 
                 });
                 await message.sendMessage(BGM_on)
