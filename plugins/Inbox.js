@@ -1,9 +1,3 @@
-/* Copyright (C) 2021 TENUX-Neotro.
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-NEOTROX - TEENUHX
-*/
-
 const Asena = require('../events');
 const config = require('../config');
 const Heroku = require('heroku-client');
@@ -80,11 +74,11 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         BGM_on = 'bgm option turned on'
         BGM_off = 'bgm option turned off'
     }
-    Asena.addCommand({pattern: 'inblock ?(.*)', fromMe: true, desc: l_dsc, usage: '.inblock on / off' }, (async (message, match) => {
+    Asena.addCommand({pattern: 'antiblock ?(.*)', fromMe: true, desc: l_dsc, usage: '.antiblock on / off' }, (async (message, match) => {
         if (match[1] == 'off') {
                 await heroku.patch(baseURI + '/config-vars', { 
                     body: { 
-                        ['INBOX_BLOCK']: 'false'
+                        ['ANTI_BLOCK']: 'false'
                     } 
                 });
                 await message.sendMessage(BGM_off)
