@@ -21,6 +21,11 @@
             "required": true,
             "value": "EN"
         },
+        "ALIVE_LOGO": {
+            "description": "Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link(https://telegra.ph/)පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://telegra.ph/file/7a8c47c246bd16d90623d.jpg"
+        },
         "ANTI_LINK": {
             "description": "It makes the bot Antilink.",
             "required": true,
