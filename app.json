@@ -26,6 +26,11 @@
             "required": true,
             "value": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg"
         },
+        "BOT_NAME": {
+            "description": "give a name you disire to give your bot (for auto reply white to identify)",
+            "required": false,
+            "value": "👸 Stefanie 👸"
+        },
         "ANTI_LINK": {
             "description": "It makes the bot Antilink.",
             "required": true,
