@@ -74,18 +74,18 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         BGM_on = 'bgm option turned on'
         BGM_off = 'bgm option turned off'
     }
-    Asena.addCommand({pattern: 'Stefanie ?(.*)', fromMe: true, desc: l_dsc, usage: '.Stefanie on / off' }, (async (message, match) => {
+    Asena.addCommand({pattern: 'stefanie ?(.*)', fromMe: true, desc: l_dsc, usage: '.Stefanie on / off' }, (async (message, match) => {
         if (match[1] == 'off') {
                 await heroku.patch(baseURI + '/config-vars', { 
                     body: { 
-                        ['STEFANIE_FILTER']: 'false'
+                        ['STEFANIE_FILTER']: 'true'
                     } 
                 });
                 await message.sendMessage(BGM_off)
         } else if (match[1] == 'on') {
                 await heroku.patch(baseURI + '/config-vars', { 
                     body: { 
-                        ['STEFANIE_FILTER']: 'true'
+                        ['STEFANIE_FILTER']: 'false'
                     } 
                 });
                 await message.sendMessage(BGM_on)
