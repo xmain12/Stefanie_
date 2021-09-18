@@ -9,7 +9,7 @@ const Config = require('../config')
 // TEENUHBOII003
 
 const INBO1 = "◁══👩‍🦰ꜱᴛᴇꜰᴀɴɪᴇ👩‍🦰══▷\n_Inbox Block System_\n\n⏱Stataus:Active\n🚀Action:Block\n📑Description: The owner of this account is operating automatic blocking system, so you are blocked...\n\nɢᴏᴏᴅ ʙʏᴇ"
- if (Config.INBOX_BLOCK == 'true') {
+ if (Config.ANTI_BLOCK == 'true') {
 teenu.addCommand({on: 'text', fromMe: false, onlyPm: true }, (async (message, match) => {
         let regexb1ichu = new RegExp('.a')
         let regexb2ichu = new RegExp('.s')
