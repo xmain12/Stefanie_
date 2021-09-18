@@ -18,6 +18,7 @@ module.exports = {
     OWNER: process.env.OWNER_NAME === undefined ? 'Kaweesha Chamod' : process.env.OWNER_NAME,
     OWNERNUM: process.env.OWNER_NUMBER === undefined ? '94779529221' : process.env.OWNER_NUMBER,
     ANTILINK: process.env.ANTI_LINK === undefined ? 'false' : process.env.ANTI_LINK,
+    WHATS_LINK_BLOCK: process.env.WHATS_LINK_BLOCK === undefined ? 'false' : process.env.WHATS_LINK_BLOCK,
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://telegra.ph/file/7a8c47c246bd16d90623d.jpg' : process.env.ALIVE_LOGO,
     STEFANIE_FILTER: process.env.STEFANIE_FILTER === undefined ? 'false' : process.env.STEFANIE_FILTER,
