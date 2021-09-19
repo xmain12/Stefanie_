@@ -40,6 +40,8 @@ module.exports = {
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     SON_GD: process.env.SON_GD === undefined ? '```Downloading your song...```' : process.env.SON_GD,
     PLY_GD: process.env.PLY_GD === undefined ? '```Downloading your song...```' : process.env.PLY_GD,
+    VID_GD: process.env.VID_GD === undefined ? '```Downloading your video...```' : process.env.VID_GD,
+    VID_GU: process.env.VID_GU === undefined ? '```Uploading your video```' : process.env.VID_GU,
     BOT_PRESENCE: process.env.BOT_PRESENCE === undefined ? 'online' : process.env.BOT_PRESENCE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.,#]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
