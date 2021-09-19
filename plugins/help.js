@@ -15,17 +15,17 @@ Asena.addCommand({pattern: 'logopro', fromMe: false, desc: 'command help menu'},
     r_text[2] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
     r_text[3] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
     r_text[4] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
-    r_text[5] = "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg";
+    r_text[5] = "*'+Config.LO_LOGO+'*";
     
     var i = Math.floor(6*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `�═════😋Stefanie😋═════�
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `�═════*'+Config.LOGO_NAME+'*═════�
 
 
  ╔════════════════╗
-*╠▷  Stefanie Logo Pack😋◁╣*
+*╠▷  *'+Config.LOGO_NAME+'* Logo Pack😋◁╣*
 ╚════════════════╝
 
 ▷මෙය පහසුවෙන්ම විවිධ LoGo සාදයි කළයුතු වන්නෙ පහත විධානයකට ඉදිරියෙන් ඔබේ අකුරු දමන්න පමණි.
