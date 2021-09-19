@@ -4,8 +4,8 @@
     "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
     "keywords": ["whatsapp", "Voice", "Alexa", "WhatsAlexa", "bot", "api", "ai"],
     "repository": "https://github.com/xmain12/Stefanie_",
-    "website":   "https://toxic-devil.github.io",
-    "success_url": "https://toxic-devil.github.io",
+    "website":   "https://kaweeshachamodk.github.io",
+    "success_url": "https://kaweeshachamodk.github.io",
     "stack": "container",
     "env": {
         "SUDO": {
