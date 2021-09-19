@@ -1,9 +1,9 @@
 {
-    "name": "Stefanie_",
+    "name": "Stefanie_New",
     "description": "Stefanie is a Helper WhatsApp Bot Written By kaweesha chamod  with Baileys. Stefanie has a lot of Features/Commans Including Voice Chat [ AI ].",
     "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
     "keywords": ["whatsapp", "Voice", "Alexa", "WhatsAlexa", "bot", "api", "ai"],
-    "repository": "https://github.com/Kaweeshachamodk/Stefanie_",
+    "repository": "https://github.com/Kaweeshachamodk/Stefanie-New-beta",
     "website":   "https://toxic-devil.github.io",
     "success_url": "https://toxic-devil.github.io",
     "stack": "container",
@@ -26,10 +26,35 @@
             "required": true,
             "value": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg"
         },
-        "BOT_NAME": {
-            "description": "give a name you disire to give your bot (for auto reply white to identify)",
-            "required": false,
-            "value": "👸 Stefanie 👸"
+        "LG_LOGO": {
+            "description": "LOGO list message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link(https://telegra.ph/)පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg"
+        },
+        "LOGO_NAME": {
+            "description": "Set the logo list name",
+            "required": true,
+            "value": "👸 Stefanie logo pack 👸"
+        },
+        "SON_GD": {
+            "description": "Set Song DownloadingSON_GU message",
+            "required": true,
+            "value": "```Downloading your song...```"
+        },
+        "SON_GU": {
+            "description": "Set Song Uploading message",
+            "required": true,
+            "value": "```Uploading your song...```"
+        },
+        "VID_GD": {
+            "description": "Set Video Downloading message",
+            "required": true,
+            "value": "```Downloading your video...```"
+        },
+        "VID_GU": {
+            "description": "Set Video Uploading message",
+            "required": true,
+            "value": "```Uploading your video...```"
         },
         "ANTI_LINK": {
             "description": "It makes the bot Antilink.",
@@ -130,7 +155,7 @@
             "value": "false"
         },
         "WORK_TYPE": {
-            "description": "WhatsAlexa Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Stefanie Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
