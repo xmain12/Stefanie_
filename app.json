@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "Bot languages. Malayalam => ML, Indonesia => ID, English => EN ( Enter any one only )",
             "required": true,
-            "value": "EN"
+            "value": "en"
         },
         "ALIVE_LOGO": {
             "description": "Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link(https://telegra.ph/)පහත සඳහන් කරන්න.",
